@@ -47,7 +47,7 @@ INSERT city VALUES (1 ,1,'温岭市','BYSocket 的家在温岭。');
 #### 1. 修改数据库配置
 配置文件地址：springboot-mybatis/src/main/resources/application.properties
 修改相应的数据源配置，比如账号、密码等
-##
+
 #### 2. 编译工程
 在项目根目录 `springboot-learning-example`，运行 maven 指令：
 ````
